@@ -1,4 +1,4 @@
-# denguedatahub
+# pydenguedatahub
 
 DengueDataHub, developed by Dr. Thiyanga Talagala, is an R package that brings together dengue-related datasets from around the world into one unified platform.
 
